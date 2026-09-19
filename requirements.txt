@@ -1,0 +1,13 @@
+# Core dependencies for Automated Video Dubbing System
+# Optimized for Python 3.12 on Windows (CPU execution)
+
+yt-dlp>=2025.2.19
+faster-whisper>=1.0.3
+deep-translator>=1.11.4
+edge-tts>=6.1.12
+pydub>=0.25.1
+soundfile>=0.12.1
+scipy>=1.14.0
+
+# Testing and development
+pytest>=8.0.0
