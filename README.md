@@ -266,6 +266,8 @@ Run the pipeline on your chosen 30-minute and 2-hour videos and record the measu
 | **Output File Size** | *Pending execution* | *Pending execution* |
 | **Playability Verification** | *Pending execution* | *Pending execution* |
 
+**off campus code: SBY9A3**
+
 ```powershell
 # Execute 30-minute run:
 python main.py "<30_MIN_YOUTUBE_URL>" --model base
